@@ -1,5 +1,5 @@
 
-package com.pu.junit;
+package com.pu.labsheet8;
 
 public class AddTwoNumber 
 {	public int add(int a, int b) 
